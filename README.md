@@ -10,7 +10,7 @@
 A production-ready React Native SDK for capturing and selecting profile images with interactive crop preview and built-in permission helpers.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SwiftCrew/react-native-smart-capture/main/docs/demo.gif" width="300" alt="Demo" />
+  <img src="https://raw.githubusercontent.com/SwiftCrew/react-native-smart-capture/main/react-native-smart-capture.gif.gif" width="300" alt="Demo" />
 </p>
 
 ---
